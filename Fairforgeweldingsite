@@ -14,13 +14,12 @@
     /* Header */
     header { background: #222; color: #fff; padding: 1rem 2rem; }
     nav { display: flex; justify-content: space-between; align-items: center; }
-    nav .Logo(A7C5jpQWavJt6sLiJP1Lq7)
- { font-size: 1.5rem; font-weight: bold; }
+    nav .Logo(A7C5jpQWavJt6sLiJP1Lq7) { font-size: 1.5rem; font-weight: bold; }
     nav ul { list-style: none; display: flex; gap: 1rem; }
     nav ul li { }
 
     /* Hero Section */
-    .hero { background: url{{file\:A7C5jpQWavJt6sLiJP1Lq7}}
+    .hero { background: url{A7C5jpQWavJt6sLiJP1Lq7}}
  center/cover no-repeat; color: #fff; text-align: center; padding: 6rem 2rem; }
     .hero h1 { font-size: 2.5rem; margin-bottom: 1rem; }
     .hero p { font-size: 1.25rem; margin-bottom: 2rem; }
