@@ -19,7 +19,7 @@
     nav ul li { }
 
     /* Hero Section */
-    .hero { background: url (abb1986c-8995-4d58-bc7b-e950b05e8e7c.png")
+    .hero { background: url(abb1986c-8995-4d58-bc7b-e950b05e8e7c.png")
    center/cover no-repeat; color: #fff; text-align: center; padding: 6rem 2rem; }
     .hero h1 { font-size: 2.5rem; margin-bottom: 1rem; }
     .hero p { font-size: 1.25rem; margin-bottom: 2rem; }
