@@ -14,7 +14,7 @@
     /* Header */
     header { background: #222; color: #fff; padding: 1rem 2rem; }
     nav { display: flex; justify-content: space-between; align-items: center; }
-    nav .Logo(file-A7C5jpQWavJt6sLiJP1Lq7)
+    nav .Logo(A7C5jpQWavJt6sLiJP1Lq7)
  { font-size: 1.5rem; font-weight: bold; }
     nav ul { list-style: none; display: flex; gap: 1rem; }
     nav ul li { }
@@ -57,7 +57,7 @@
 <body>
   <header>
     <nav>
-      <div class=Logo></div>
+      <div class=Logo>FairForgeWelding</div>
       <div class="menu-toggle" onclick="toggleMenu()">☰</div>
       <ul id="nav-links">
         <li><a href="#services">Services</a></li>
